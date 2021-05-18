@@ -3,9 +3,9 @@ This is full python based project for voice ssistant using python this is use to
 
 import speech_recognition as sr
 import datetime
-# from pygame import mixer
-# from datetime import datetime
-# from time import time
+from pygame import mixer
+from datetime import datetime
+from time import time
 from googletrans import Translator
 import random
 import ctypes
